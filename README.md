@@ -8,17 +8,18 @@ My name is Marcos Cemim, I'm a brazilian Production Engineer, passionate about d
 Data scientist and Data analyst, helping companies transform data into usefull insights.  
 Currently applying AI and ML into industrial processes!
 
+![](https://komarev.com/ghpvc/?username=mcemim&style=for-the-badge&color=blue&label=Profile+Visits)
 
 <a name="interests"></a>
 
 ## 🏢  Main interest areas: 
-! [🎲 Data Science][ds_anchor]  
-! [📊 Analytics][al_anchor]  
-! [🤖 Artificial Intelligence][ai_anchor]  
-! [⚡ Database][db_anchor]  
-! [💡 Protoyping][pt_anchor]  
-! [🏭 Industrial Application][ind_anchor]  
-! [🔥 Energy Efficiency][ener_anchor]  
+[🎲 Data Science][ds_anchor]  
+[📊 Analytics][al_anchor]  
+[🤖 Artificial Intelligence][ai_anchor]  
+[⚡ Database][db_anchor]  
+[💡 Protoyping][pt_anchor]  
+[🏭 Industrial Application][ind_anchor]  
+[🔥 Energy Efficiency][ener_anchor]  
 </div>
 
 ## 💻  OS & Languages  [🆙][top_anchor]
@@ -142,8 +143,8 @@ Currently applying AI and ML into industrial processes!
   </tr>
 </table>
 </div>
-<div align="center"><h3><b>Profile Visitor Count</b></h3></div>
-<p align="center"><img src="https://profile-counter.glitch.me/mcemim/count.svg" alt="Ilustração do número de visitantes no perfil"/></p>
+<!-- <div align="center"><h3><b>Profile Visitor Count</b></h3></div>
+<p align="center"><img src="https://profile-counter.glitch.me/mcemim/count.svg" alt="Ilustração do número de visitantes no perfil"/></p> -->
 
 
 [top_anchor]: #interests
