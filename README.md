@@ -1,21 +1,27 @@
 # Hello, stranger! 👽🤘🖖🐶
 
-My name is Marcos Cemim, a brazilian Production Engineer, passionate about data, on my way to become a master in AI.  
+<img src="https://raw.githubusercontent.com/mcemim/mcemim/master/image/background3.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+
+My name is Marcos Cemim, I'm a brazilian Production Engineer, passionate about data, on my way to become a master in AI.  
 Data scientist and Data analyst, helping companies transform data into usefull insights.  
 Currently applying AI and ML into industrial processes!
 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+</p>
 
 <a name="interests"></a>
 
 ## 🏢  Main interest areas: 
-[🎲 Data Science][ds_anchor]  
-[📊 Analytics][al_anchor]  
-[🤖 Artificial Intelligence][ai_anchor]  
-[⚡ Database][db_anchor]  
-[💡 Protoyping][pt_anchor]  
-[🏭 Industrial Application][ind_anchor]  
-[🔥 Energy Efficiency][ener_anchor]  
+! [🎲 Data Science][ds_anchor]  
+! [📊 Analytics][al_anchor]  
+! [🤖 Artificial Intelligence][ai_anchor]  
+! [⚡ Database][db_anchor]  
+! [💡 Protoyping][pt_anchor]  
+! [🏭 Industrial Application][ind_anchor]  
+! [🔥 Energy Efficiency][ener_anchor]  
 
 ## 💻  OS & Languages  [☝️][top_anchor]
 [<img src="https://img.shields.io/badge/Linux-⭐⭐⭐-gray?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624" height="25" />][top_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
@@ -108,6 +114,37 @@ Currently applying AI and ML into industrial processes!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/marcoscemim/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" title="Gmail" height="25" />](mailto:mcemim@gmail.com) 
+
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=mcemim&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcemim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mcemim&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<div align="center"><h3><b>Profile Visitor Count</b></h3></div>
+<p align="center"><img src="https://profile-counter.glitch.me/mcemim/count.svg" alt="Ilustração do número de visitantes no perfil"/></p>
 
 
 [top_anchor]: #interests
