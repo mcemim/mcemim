@@ -1,13 +1,13 @@
 # Hello, stranger! 👽🤘🖖🐶
 
-<img src="https://raw.githubusercontent.com/mcemim/mcemim/main/master/image/img3.png" min-width="200px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/mcemim/mcemim/main/master/image/img3.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<div align="left"> 
 
 My name is Marcos Cemim, I'm a brazilian Production Engineer, passionate about data, on my way to become a master in AI.  
 Data scientist and Data analyst, helping companies transform data into usefull insights.  
 Currently applying AI and ML into industrial processes!
-</p>
+
 
 <a name="interests"></a>
 
@@ -19,6 +19,7 @@ Currently applying AI and ML into industrial processes!
 ! [💡 Protoyping][pt_anchor]  
 ! [🏭 Industrial Application][ind_anchor]  
 ! [🔥 Energy Efficiency][ener_anchor]  
+</div>
 
 ## 💻  OS & Languages  [☝️][top_anchor]
 [<img src="https://img.shields.io/badge/Linux-⭐⭐⭐-gray?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624" height="25" />][top_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
