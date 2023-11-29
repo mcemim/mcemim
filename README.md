@@ -1,6 +1,6 @@
 # Hello, stranger! 👽🤘🖖🐶
 
-<img src="https://raw.githubusercontent.com/mcemim/mcemim/main/master/image/img3.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/mcemim/mcemim/main/master/image/img3.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <div align="left"> 
 
