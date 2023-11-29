@@ -1,15 +1,12 @@
 # Hello, stranger! 👽🤘🖖🐶
 
-<img src="https://raw.githubusercontent.com/mcemim/mcemim/main/master/image/background3.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/mcemim/mcemim/main/master/image/img3.png" min-width="200px" max-width="200px" width="200px" align="right">
 
 <p align="left"> 
 
 My name is Marcos Cemim, I'm a brazilian Production Engineer, passionate about data, on my way to become a master in AI.  
 Data scientist and Data analyst, helping companies transform data into usefull insights.  
 Currently applying AI and ML into industrial processes!
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 </p>
 
 <a name="interests"></a>
