@@ -8,16 +8,16 @@ Currently applying AI and ML into industrial processes!
 
 <a name="interests"></a>
 
-## Main interest areas: 
-[🎲 Data Science](#data-science)  
-[📊 Analytics](#analytics)  
-[🤖 Artificial Intelligence](#ai)  
-[⚡ Database](#database)  
-[💡 Protoyping](#prototype)  
-[🏭 Industrial Application](#industry)  
-[🔥 Energy Efficiency](#energy)  
+## 🏢  Main interest areas: 
+[🎲 Data Science][ds_anchor]  
+[📊 Analytics][al_anchor]  
+[🤖 Artificial Intelligence][ai_anchor]  
+[⚡ Database][db_anchor]  
+[💡 Protoyping][pt_anchor]  
+[🏭 Industrial Application][ind_anchor]  
+[🔥 Energy Efficiency][ener_anchor]  
 
-## OS & Languages
+## 💻  OS & Languages
 [<img src="https://img.shields.io/badge/Linux-⭐⭐⭐-gray?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624" height="25" />][top_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Ubuntu-⭐⭐-gray?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=E95420" height="25" />][top_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Windows-⭐⭐⭐⭐-gray?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6" height="25" />][top_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,7 @@ Currently applying AI and ML into industrial processes!
 [<img src="https://img.shields.io/badge/Markdown-⭐⭐⭐-gray?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000" height="25" />][top_anchor]  
 
 
-### 🎲 Data Science
+### 🎲  Data Science
 <a name="ds"></a>
 
 [<img src="https://img.shields.io/badge/Microsoft_Excel-⭐⭐⭐⭐⭐-gray?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346" height="25"/>][ds_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@ Currently applying AI and ML into industrial processes!
 [<img src="https://img.shields.io/badge/Airflow-🔜-white?style=for-the-badge&logo=Apache%20Airflow&logoColor=white&labelColor=017CEE" height="25"/>][ds_anchor] 
 
 
-### 📊 Analytics
+### 📊  Analytics
 <a name="al"></a>
 
 [<img src="https://img.shields.io/badge/PowerBI-⭐⭐⭐⭐⭐-gray?style=for-the-badge&logo=Power%20BI&logoColor=white&labelColor=F2C811" height="25"/>][al_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
@@ -61,7 +61,7 @@ Currently applying AI and ML into industrial processes!
 [<img src="https://img.shields.io/badge/Plotly-⭐⭐⭐⭐⭐-gray?style=for-the-badge&logo=plotly&logoColor=white&labelColor=239120" height="25" />][al_anchor] 
 
 
-### 🤖 Artificial Intelligence
+### 🤖  Artificial Intelligence
 <a name="ai"></a>
 
 [<img src="https://img.shields.io/badge/OpenCV-⭐⭐⭐-gray?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=27338e" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
@@ -73,7 +73,7 @@ Currently applying AI and ML into industrial processes!
 [<img src="https://img.shields.io/badge/Apache_Spark-🔜-white?style=for-the-badge&logo=apachespark&logoColor=E35A16&labelColor=FFFFFF" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Scikit_Learn-📖 -gray?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" height="25"/>][ai_anchor] 
 
-### ⚡ Database
+### ⚡  Database
 <a name="db"></a>
 
 [<img src="https://img.shields.io/badge/InfluxDB-⭐⭐⭐⭐-gray?style=for-the-badge&logo=InfluxDB&logoColor=white&labelColor=22ADF6" height="25" />][db_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
@@ -82,18 +82,18 @@ Currently applying AI and ML into industrial processes!
 [<img src="https://img.shields.io/badge/SQLAlchemy-⭐⭐⭐-gray?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=D71F00" height="25" />][db_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/MongoDB-🔜-white?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B" height="25" />][db_anchor] 
 
-### 💡 Protoyping
+### 💡  Protoyping
 <a name="pt"></a>
 
 [<img src="https://img.shields.io/badge/Arduino-⭐⭐⭐-gray?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D" height="25" />][pt_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Raspberry%20Pi-⭐⭐-gray?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white&labelColor=A22846" height="25"/>][pt_anchor] 
 
-### 🏭 Industrial Application
+### 🏭  Industrial Application
 <a name="ind"></a>
 
-[<img src="https://img.shields.io/badge/Node--Red-⭐-gray?style=for-the-badge&logo=nodered&logoColor=white&labelColor=8F0000" height="25" />][db_anchor] 
+[<img src="https://img.shields.io/badge/Node--Red-⭐-gray?style=for-the-badge&logo=nodered&logoColor=white&labelColor=8F0000" height="25" />][ind_anchor] 
 
-### 🔥 Energy Efficiency
+### 🔥  Energy Efficiency
 <a name="ener"></a>
 
 [<img src="https://img.shields.io/badge/Ask_me_about-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Gmail logo" height="25" />](mailto:mac@termica.solutions) 
