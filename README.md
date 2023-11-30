@@ -6,7 +6,9 @@
 
 My name is Marcos Cemim, I'm a brazilian Production Engineer, passionate about data, on my way to become a master in AI.  
 Data scientist and Data analyst, helping companies transform data into usefull insights.  
-Currently applying AI and ML into industrial processes!
+Currently applying AI and ML into industrial processes!  
+
+  
 ![](https://hit.yhype.me/github/profile?user_id=42742457)
 ![](https://komarev.com/ghpvc/?username=mcemim&style=for-the-badge&color=blue&label=Profile+Visits)
 
