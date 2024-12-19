@@ -72,14 +72,13 @@ Currently applying AI and ML into industrial processes!
 
 ### 🤖  Artificial Intelligence  [🆙][top_anchor]
 
-[<img src="https://img.shields.io/badge/OpenCV-⭐⭐⭐-gray?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=27338e" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Keras-📖-gray?style=for-the-badge&logo=keras&logoColor=white&labelColor=FF0000" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/PyTorch-📖-gray?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/SciPy-📖-gray?style=for-the-badge&logo=SciPy&logoColor=white&labelColor=654FF0" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/TensorFlow-📖-gray?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/SciPy-📖-gray?style=for-the-badge&logo=SciPy&logoColor=white&labelColor=654FF0" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/OpenCV-⭐⭐⭐⭐-gray?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=27338e" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Keras-⭐⭐⭐-gray?style=for-the-badge&logo=keras&logoColor=white&labelColor=FF0000" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/PyTorch-⭐⭐⭐-gray?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/TensorFlow-⭐⭐⭐-gray?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/SciPy-⭐⭐-gray?style=for-the-badge&logo=SciPy&logoColor=white&labelColor=654FF0" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Apache_Spark-🔜-white?style=for-the-badge&logo=apachespark&logoColor=E35A16&labelColor=FFFFFF" height="25" />][ai_anchor] &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Scikit_Learn-📖 -gray?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" height="25"/>][ai_anchor] 
+[<img src="https://img.shields.io/badge/Scikit_Learn-⭐⭐⭐⭐-gray?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" height="25"/>][ai_anchor] 
 
 <a name="db"></a>
 
